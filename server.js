@@ -105,7 +105,7 @@ app.post('/api/register', async (req, res) => {
       console.log('User created successfully: ', response);
    } catch (error) {
       if (error.code === 11000) {
-         // duplicate key
+         // duplicate key error code from mongoose
          return res.json({ status: 'error', error: 'Username already in use' });
       }
       throw error;
