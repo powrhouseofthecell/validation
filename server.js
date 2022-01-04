@@ -7,12 +7,9 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 require('dotenv').config();
 const JWT_SECRET = process.env.VAL;
+const ATLAS = process.env.CONNECTION;
 
-mongoose.connect('mongodb://localhost:27017/login-app-db', {
-   // useNewUrlParser: true,
-   // useUnifiedTopology: true,
-   // useCreateIndex: true,
-});
+mongoose.connect(ATLAS);
 
 const app = express();
 app.use('/', express.static(path.join(__dirname, 'static')));
