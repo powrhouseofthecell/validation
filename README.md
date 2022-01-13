@@ -11,7 +11,7 @@
 
 > A simple auth script using NodeJS, ExpressJS and JWT
 
-### 🏠 [Homepage](https://github.com/powrhouseofthecell/Auth#readme)
+### 🏠 [Homepage](https://github.com/powrhouseofthecell/Validtion#readme)
 
 ## Install
 
