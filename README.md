@@ -11,9 +11,7 @@
 
 > A simple auth script using NodeJS, ExpressJS and JWT
 
-### 🏠 [Homepage](https://github.com/powrhouseofthecell/ChatApp#readme)
-
-### ✨ [Demo](https://zuhaib-chat-app.herokuapp.com)
+### 🏠 [Homepage](https://github.com/powrhouseofthecell/Auth#readme)
 
 ## Install
 
@@ -35,10 +33,6 @@ npm run start
 -  Github: [@powrhouseofthecell](https://github.com/powrhouseofthecell)
 -  LinkedIn: [@zuhaibnazir](https://linkedin.com/in/zuhaibnazir)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/powrhouseofthecell/ChatApp/issues). You can also take a look at the [contributing guide](https://github.com/powrhouseofthecell/ChatApp/blob/master/CONTRIBUTING.md).
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
@@ -46,4 +40,3 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [Zuhaib](https://github.com/powrhouseofthecell).<br />
-This project is [ISC](https://github.com/powrhouseofthecell/ChatApp/blob/master/LICENSE) licensed.
