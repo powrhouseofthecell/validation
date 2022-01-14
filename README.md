@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> A simple auth script using NodeJS, ExpressJS and JWT
+> A simple authentication script using NodeJS, ExpressJS and JWT
 
 ### 🏠 [Homepage](https://github.com/powrhouseofthecell/Validation#readme)
 
