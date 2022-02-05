@@ -1,27 +1,27 @@
 {
-  "name": "auth",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/powrhouseofthecell/Validation.git"
-  },
-  "author": "Zuhaib",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/powrhouseofthecell/Validation/issues"
-  },
-  "homepage": "https://github.com/powrhouseofthecell/Validation#readme",
-  "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "dotenv": "^10.0.0",
-    "express": "^4.17.2",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.1.2"
-  }
+   "name": "auth",
+   "version": "1.0.0",
+   "description": "",
+   "main": "server.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/powrhouseofthecell/Validation.git"
+   },
+   "author": "Zuhaib",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/powrhouseofthecell/Validation/issues"
+   },
+   "homepage": "https://github.com/powrhouseofthecell/Validation#readme",
+   "dependencies": {
+      "bcryptjs": "^2.4.3",
+      "dotenv": "^10.0.0",
+      "express": "^4.17.2",
+      "jsonwebtoken": "^8.5.1",
+      "mongoose": "^6.1.2"
+   }
 }
